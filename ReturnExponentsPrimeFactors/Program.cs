@@ -20,6 +20,8 @@ Array.ForEach(res, Console.WriteLine);
 
 static int[] ProductEqualTarget(int[] arr, int target)
 {
+    // Could be improved with an for loop in the arr -> reduce code
+
     var val1 = arr.ElementAt(0);
     var val2 = arr.ElementAt(1);
     var val3 = arr.ElementAt(2);
