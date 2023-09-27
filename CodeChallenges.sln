@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifiedFractions", "Simp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishtoPigLatinµTranslator", "EnglishtoPigLatinµTranslator\EnglishtoPigLatinµTranslator.csproj", "{21F46E3E-CD7D-44FF-AD7A-E6070C941BB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordValidation", "PasswordValidation\PasswordValidation.csproj", "{62931809-123D-4A8E-9570-711D67D6440C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{21F46E3E-CD7D-44FF-AD7A-E6070C941BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21F46E3E-CD7D-44FF-AD7A-E6070C941BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21F46E3E-CD7D-44FF-AD7A-E6070C941BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62931809-123D-4A8E-9570-711D67D6440C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62931809-123D-4A8E-9570-711D67D6440C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62931809-123D-4A8E-9570-711D67D6440C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62931809-123D-4A8E-9570-711D67D6440C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
