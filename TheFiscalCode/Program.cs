@@ -8,7 +8,13 @@
 //redArea(0) ➞ 0
 
 //redArea(4) ➞ 1.252
+RedArea(4);
 
 //redArea(25) ➞ 48.906
 //Notes
 //The input r is always a valid number.
+
+static double RedArea(int r)
+{
+
+}
