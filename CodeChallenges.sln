@@ -27,11 +27,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishtoPigLatinµTranslat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordValidation", "PasswordValidation\PasswordValidation.csproj", "{62931809-123D-4A8E-9570-711D67D6440C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFiscalCode", "TheFiscalCode\TheFiscalCode.csproj", "{0EAD4928-1172-4F74-9770-E5E469EFE97C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheFiscalCode", "TheFiscalCode\TheFiscalCode.csproj", "{0EAD4928-1172-4F74-9770-E5E469EFE97C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMPINCodeValidation", "ATMPINCodeValidation\ATMPINCodeValidation.csproj", "{A8CC333D-DE3F-42C7-AC70-26740D6F3B36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmoothSentences", "SmoothSentences\SmoothSentences.csproj", "{FA7BC71F-E0CC-4447-8B34-1CFF9682219F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmoothSentences", "SmoothSentences\SmoothSentences.csproj", "{FA7BC71F-E0CC-4447-8B34-1CFF9682219F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerHandRanking", "PokerHandRanking\PokerHandRanking.csproj", "{D6DB535C-37F0-4CA1-930C-C8F0B296B628}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{FA7BC71F-E0CC-4447-8B34-1CFF9682219F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA7BC71F-E0CC-4447-8B34-1CFF9682219F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA7BC71F-E0CC-4447-8B34-1CFF9682219F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6DB535C-37F0-4CA1-930C-C8F0B296B628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DB535C-37F0-4CA1-930C-C8F0B296B628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DB535C-37F0-4CA1-930C-C8F0B296B628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DB535C-37F0-4CA1-930C-C8F0B296B628}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
